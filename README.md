@@ -1,4 +1,4 @@
-[Home](/README.md) | [page1](/page1.md) | [View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/)
+[Home](/README.md) | [page1](/page1.md) | [View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/) | [help](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
 
 ## Welcome to GitHub Pages
 
