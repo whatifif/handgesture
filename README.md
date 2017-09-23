@@ -1,4 +1,4 @@
-[Home](/README.md)  [page1](/page1.md)
+[Home](/README.md) | [page1](/page1.md)
 
 ## Welcome to GitHub Pages
 
