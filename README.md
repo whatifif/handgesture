@@ -1,5 +1,4 @@
-[Home](/README.md) | [page1](/page1.md) | [View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/) | [help](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
-
+[Home](/README.md) | [page1](/page1.md) | [View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/) | [CSS & layout](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) | [default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/whatifif/handgesture/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
