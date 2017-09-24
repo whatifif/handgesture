@@ -1,9 +1,4 @@
-[Home](/README.md) | 
-[Reference](/reference.md) | 
-[Edit Guide](/editguide.md) | 
-
-[View on Github](https://github.com/whatifif/handgesture/) | 
-[View on Web](https://whatifif.github.io/handgesture/)
+[Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button><button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
 ## Controlling a Computer by Hand Gesture
 
