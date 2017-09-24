@@ -2,11 +2,6 @@
 
 ### Reference
 
-Here are references.
+[manomotion](https://www.manomotion.com/get-started/) : real-time 3D gestural analysis. 
 
-
-#### 
-[manomotion](https://www.manomotion.com/get-started/)
-
-[yolo](https://pjreddie.com/darknet/yolo/)
-object detection
+[yolo](https://pjreddie.com/darknet/yolo/) : real-time object detection
