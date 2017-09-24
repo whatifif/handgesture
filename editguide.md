@@ -4,8 +4,6 @@
 <button><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 <button><a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">CSS & Layout Guide</a></button>
 
-{% include navigation.md %}
-
 ### Edit Guide of Pages
 
 README.md is the main page.
