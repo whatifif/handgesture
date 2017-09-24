@@ -1,3 +1,7 @@
+[Home](https://whatifif.github.io/handgesture/) | 
+[Reference](/reference.md) | 
+[Edit Guide](/editguide.md) | 
+
 [View on Github](https://github.com/whatifif/handgesture/) | 
 [View on Web](https://whatifif.github.io/handgesture/)
 
