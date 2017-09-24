@@ -2,9 +2,13 @@
 
 ## Controlling a Computer by Hand Gesture
 
-It would be nice to controll a computer by hand gesture and voice remotely. 
+It would be nice to controll a computer by hand gesture and/or voice remotely. 
 
-This can make people freed from the keyboard and mouse, solving the health problem caused by sitting steady all day long.
+This can make people freed from the keyboard and mouse, solving the health problem caused by sitting steady for a long time.
+
+If applied for a game, this makes playersfeel more immersive by interacting with their body gesture.
+
+The interaction with hand gesture is necessary for VR/AR age.
 
 ### Markdown
 
