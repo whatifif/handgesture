@@ -1,5 +1,4 @@
-[Home](/README.md) | [page1](/page1.md) |
-| [Edit Guide](/editguide.md)
+[Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md)
 
 ## Controlling a Computer by Hand Gesture
 
