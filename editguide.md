@@ -1,4 +1,6 @@
-[Home](/README.md) | [page1](/page1.md) | [View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/) | [CSS & layout](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) | [default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html)
+[Home](/README.md) | [page1](/page1.md) | 
+
+[View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/) | [CSS & layout](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) | [default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) | [Edit Guide](/editguide.md)
 
 ### Edit Guide of Pages
 
