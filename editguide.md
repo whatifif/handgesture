@@ -1,4 +1,4 @@
-<button><a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">CSS & Layout Guide</a></button>
+<button class="nav"><a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">CSS & Layout Guide</a></button>
 
 ### Edit Guide of Pages
 
