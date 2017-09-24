@@ -1,3 +1,6 @@
+[View on Github](https://github.com/whatifif/handgesture/) | 
+[View on Web](https://whatifif.github.io/handgesture/)
+
 ## Controlling a Computer by Hand Gesture
 
 It would be nice to controll a computer by hand gesture and/or voice remotely. 
