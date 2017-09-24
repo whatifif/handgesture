@@ -1,5 +1,3 @@
-[Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md)
-
 ## Controlling a Computer by Hand Gesture
 
 It would be nice to controll a computer by hand gesture and/or voice remotely. 
