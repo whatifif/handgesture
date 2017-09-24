@@ -1,4 +1,4 @@
-[Home](https://whatifif.github.io/handgesture/) | 
+[Home](/README.md) | 
 [Reference](/reference.md) | 
 [Edit Guide](/editguide.md) | 
 
