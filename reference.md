@@ -7,3 +7,6 @@ Here are references.
 
 #### 
 [manomotion](https://www.manomotion.com/get-started/)
+
+[yolo](https://pjreddie.com/darknet/yolo/)
+object detection
