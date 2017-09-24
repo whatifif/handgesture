@@ -3,7 +3,7 @@
 [View on Github](https://github.com/whatifif/handgesture) | [View on Web](https://whatifif.github.io/handgesture/) | [CSS & layout](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/) | [default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) | 
 
 <button name="viewongithub" onclick="https://github.com/whatifif/handgesture">View on Github</button>
-[View on Web](https://whatifif.github.io/handgesture/){:.btn}
+[View on Web](https://whatifif.github.io/handgesture/){: .btn}
 
 ### Edit Guide of Pages
 
