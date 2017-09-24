@@ -1,6 +1,8 @@
-[Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button> | <button class="nav"><a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">CSS & Layout Guide</a></button>
+[Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
 ### Edit Guide of Pages
+
+<button class="nav"><a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">CSS & Layout Guide</a></button>
 
 README.md is the main page.
 
