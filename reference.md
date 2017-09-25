@@ -1,13 +1,12 @@
 [Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
 ### Reference
+[leapmotion](https://www.leapmotion.com/): Reach into virtual reality with your bare hands
 
 [manomotion](https://www.manomotion.com/get-started/) : real-time 3D gestural analysis. 
 ManoMotion provides a framework for real- time 3D gestural analysis. Minimal hardware, minimal computing power. All that’s required is a simple RGB camera found in everyday smartphone.
 
-
 [yolo](https://pjreddie.com/darknet/yolo/) : real-time object detection
-
 
 [universe](https://blog.openai.com/universe/) : Universe allows an AI agent to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse. 
 
@@ -20,3 +19,5 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 [Opencv python hand gesture recognition](http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html): opencv with python
 
 [9 OpenCV tutorials to detect and recognize hand gestures](https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/)
+
+
