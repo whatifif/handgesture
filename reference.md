@@ -10,6 +10,8 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation-reinstallation-and-uninstallation)
 
+[openpose video](https://spectrum.ieee.org/video/robotics/robotics-software/robots-learn-to-speak-body-language)
+
 [GestuRe](https://github.com/atduskgreg/gestuRe): GestuRe: A mixed-initiative interactive machine learning system for recognizing hand gestures
 
 [hand gesture dataset](http://lttm.dei.unipd.it/downloads/gesture/)
