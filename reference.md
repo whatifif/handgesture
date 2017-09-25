@@ -20,4 +20,6 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [9 OpenCV tutorials to detect and recognize hand gestures](https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/)
 
+[How to Use Your Smartphone as a Mouse, Keyboard, and Remote Control for Your PC](https://www.howtogeek.com/240794/how-to-use-your-smartphone-as-a-mouse-keyboard-and-remote-control-for-your-pc/)
+
 
