@@ -8,6 +8,8 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [yolo](https://pjreddie.com/darknet/yolo/) : real-time object detection
 
+[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation-reinstallation-and-uninstallation)
+
 [universe](https://blog.openai.com/universe/) : Universe allows an AI agent to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse. 
 
 [https://github.com/opencv/opencv](https://github.com/opencv/opencv)
