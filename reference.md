@@ -14,3 +14,5 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 [https://github.com/opencv/opencv](https://github.com/opencv/opencv)
 
 [http://opencv.org/](http://opencv.org/)
+
+[https://pjreddie.com/darknet/](https://pjreddie.com/darknet/)
