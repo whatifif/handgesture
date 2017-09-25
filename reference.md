@@ -17,4 +17,4 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [https://pjreddie.com/darknet/](https://pjreddie.com/darknet/)
 
-[Opencv python hand gesture recognition](Opencv python hand gesture recognition): opencv with python
+[Opencv python hand gesture recognition](http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html): opencv with python
