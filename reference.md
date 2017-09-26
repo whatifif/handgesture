@@ -38,4 +38,20 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [Kinect Finger Recognition For Games](https://www.youtube.com/watch?v=NqjopQmqWAE)
 
+[IMPRESSIVE HAND TRACKING! | Blocks VR (Oculus Rift DK2 + Leap Motion Orion)](https://www.youtube.com/watch?v=LJPxyWM9Ujg)
+
+[OpenCV + Python + Hand Tracking + Gesture Recognition](https://www.youtube.com/watch?v=ycd3t6K2ofs)
+
+[OpenCV Python Webcam Hand Gesture Detection API](https://www.youtube.com/watch?v=oH0ZkfFoeYU)
+
+[Hand Gesture Detection AI With Convolutional Neural Networks](https://www.youtube.com/watch?v=Y6oLbRKwmPk)
+
+
+
+
+
+
+
+
+
 
