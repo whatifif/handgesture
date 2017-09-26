@@ -32,4 +32,8 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [How to Use Your Smartphone as a Mouse, Keyboard, and Remote Control for Your PC](https://www.howtogeek.com/240794/how-to-use-your-smartphone-as-a-mouse-keyboard-and-remote-control-for-your-pc/)
 
+## Youtube
+
+[Handpose: Fully Articulated Hand Tracking](https://www.youtube.com/watch?v=A-xXrMpOHyc): microsoft research
+
 
