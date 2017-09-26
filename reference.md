@@ -46,6 +46,10 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [Hand Gesture Detection AI With Convolutional Neural Networks](https://www.youtube.com/watch?v=Y6oLbRKwmPk)
 
+[Playing Mario With Hand Gesture Neural Network + LSES Update/Demo](https://www.youtube.com/watch?v=HaQizxcc1d0)
+
+
+
 
 
 
