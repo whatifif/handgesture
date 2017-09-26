@@ -36,4 +36,6 @@ ManoMotion provides a framework for real- time 3D gestural analysis. Minimal har
 
 [Handpose: Fully Articulated Hand Tracking](https://www.youtube.com/watch?v=A-xXrMpOHyc): microsoft research
 
+[Kinect Finger Recognition For Games](https://www.youtube.com/watch?v=NqjopQmqWAE)
+
 
