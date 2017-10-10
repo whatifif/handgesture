@@ -18,11 +18,13 @@ There have been many researches about this hand gesture recognition. What we are
 
 1. [CMU (Carnegie Mellon University) OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose): webcam
 
-2. [MS (Microsoft) hand tracking](https://www.microsoft.com/en-us/research/project/fully-articulated-hand-tracking/): 3D sensor
+2. [MS (Microsoft) hololens](https://www.microsoft.com/en-au/hololens): 3D sensor
 
-3. [Leap Motion](https://www.leapmotion.com): 3D sensor
+3. [MS (Microsoft) hand tracking](https://www.microsoft.com/en-us/research/project/fully-articulated-hand-tracking/): 3D sensor
 
-4. [Mano Motion](https://www.manomotion.com/): smartphone camera
+4. [Leap Motion](https://www.leapmotion.com): 3D sensor
+
+5. [Mano Motion](https://www.manomotion.com/): smartphone camera
 
 
 ## chalenging points
