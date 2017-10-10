@@ -2,13 +2,29 @@
 
 ## Controlling a Computer by Hand Gesture
 
-It would be nice to controll a computer by hand gesture and/or voice remotely. 
+It would be nice to controll a computer by hand gesture and/or voice remotely without using a keyboard and a mouse. 
 
 This can make people freed from the keyboard and mouse, solving the health problem caused by sitting steady for a long time.
 
-If applied for a game, this makes playersfeel more immersive by interacting with their body gesture.
+Additionally this makes game-players feel more immersive in a game by using their body for interaction.
 
-The interaction with hand gesture is necessary for VR/AR age.
+Currently VR (virtual reality) and AR (augmented reality) use a special controller to replace the keyboard and the mouse for performance reason.
+
+Ideally these controller will be replaced with hand gestures and voice commands.
+
+There have been many researches about this hand gesture recognition. What we are going to achieve is to cover all the keys on a keyboard with as many hand gestures as possible. 
+
+## work flow
+
+1. defining as many hand gestures as possible to cover all the keys on a keyboard.
+
+2. creating many data sets accordingly.
+
+3. searching for a deep learning model which can track and recognise these hand gestures at real time.
+
+4. searching for a deep learning model which can track a hand to be used as replacement of a mouse at real time.
+
+5. creating some demos such as basic calculation or a game.
 
 ### Markdown
 
