@@ -14,6 +14,26 @@ Ideally these controller will be replaced with hand gestures and voice commands.
 
 There have been many researches about this hand gesture recognition. What we are going to achieve is to cover all the keys on a keyboard with as many hand gestures as possible. 
 
+## recent works in this field
+
+1. [CMU university's openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
+2. [MS's hand tracking](https://www.microsoft.com/en-us/research/project/fully-articulated-hand-tracking/)
+
+3. [leap motion](https://www.leapmotion.com)
+
+4. [mano motion](https://www.manomotion.com/)
+
+
+## chalenging points
+
+1. using a webcam not using 3D sensor or depth camera
+
+2. detecting the subtle gestures at real time
+
+3. deep learning at smartphone if possible
+
+
 ## work flow
 
 1. defining as many hand gestures as possible to cover all the keys on a keyboard.
