@@ -50,6 +50,10 @@ There have been many researches about this hand gesture recognition. What we are
 
 6. creating some demos such as basic calculation or a game.
 
+## Why MxNet?
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
