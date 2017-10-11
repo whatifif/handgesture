@@ -14,7 +14,7 @@ Ideally these controller will be replaced with hand gestures and voice commands.
 
 There have been many researches about this hand gesture recognition. What we are going to achieve is to cover all the keys on a keyboard with as many hand gestures as possible. 
 
-## recent works in this field
+## Recent works in this field
 
 1. [CMU (Carnegie Mellon University) OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose): webcam
 
@@ -27,16 +27,16 @@ There have been many researches about this hand gesture recognition. What we are
 5. [Mano Motion](https://www.manomotion.com/): smartphone camera
 
 
-## chalenging points
+## Chalenging points
 
 1. using a webcam not using 3D sensor or depth camera
 
 2. detecting the subtle gestures at real time
 
-3. deep learning at smartphone if possible
+3. deep learning running at smartphone
 
 
-## work flow
+## Work flow
 
 1. defining as many hand gestures as possible to cover all the keys on a keyboard.
 
@@ -44,9 +44,11 @@ There have been many researches about this hand gesture recognition. What we are
 
 3. searching for a deep learning model which can track and recognise these hand gestures at real time.
 
-4. searching for a deep learning model which can track a hand to be used as replacement of a mouse at real time.
+4. coding for hand gesture recognition
 
-5. creating some demos such as basic calculation or a game.
+5. coding for hand tracking
+
+6. creating some demos such as basic calculation or a game.
 
 ### Markdown
 
