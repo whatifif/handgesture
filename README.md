@@ -56,6 +56,9 @@ There have been many researches about this hand gesture recognition. What we are
 ## How can the trained model be transferred to work at smartphone?
 
 
+## Is the detection area ( Region of Interest ) for hand needed?
+
+
 
 ### Markdown
 
