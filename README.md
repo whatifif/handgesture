@@ -29,7 +29,7 @@ There have been many researches about this hand gesture recognition. What we are
 
 ## Chalenging points
 
-1. using a webcam not using 3D sensor or depth camera
+1. using a webcam not using 3D sensor (depth camera)
 
 2. detecting the subtle gestures at real time
 
