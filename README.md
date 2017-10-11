@@ -53,6 +53,9 @@ There have been many researches about this hand gesture recognition. What we are
 ## Why MxNet?
 
 
+## How can the trained model be transferred to work at smartphone?
+
+
 
 ### Markdown
 
