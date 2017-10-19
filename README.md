@@ -25,7 +25,7 @@
    e. summary and future work
    
 
-5. ### tracking a right hand for mouse
+5. ### tracking a right hand for mouse ?
 
 
 
