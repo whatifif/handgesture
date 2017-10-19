@@ -6,23 +6,23 @@
 A. getting more data of hand gesture.
 
 B. connecting a trained model 
-   1. making the model recognise a gesture in application program ( stream-lined at real time)
+   a. making the model recognise a gesture in application program ( stream-lined at real time)
 
 C. making a demo program
-   1. caculation program
+   a. caculation program
    
-   2. running dinosaur ?
+   b. running dinosaur ?
   
 D. preparing a presentation
-   1. introduction
+   a. introduction
    
-   2. creating data sets
+   b. creating data sets
    
-   3. training and testing
+   c. training and testing
    
-   4. demo
+   d. demo
    
-   5. summary and future work
+   e. summary and future work
    
 
 E. tracking a right hand for mouse ?
