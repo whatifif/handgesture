@@ -6,7 +6,7 @@
 1. ### get more data of hand gesture.
 
 2. ### connecting a trained model 
-   a making the model recognise a gesture in application program ( stream-lined at real time)
+   a. making the model recognise a gesture in application program ( stream-lined at real time)
 
 3. ### make a demo program
    a. caculation program
