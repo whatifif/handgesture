@@ -8,15 +8,15 @@
 2. ### connecting a trained model to recognise a gesture in main program ( streamlined at real time)
 
 3. ### make a demo program
-   1. caculation program
-   (2. running dinosaur )
+   a. caculation program
+   b. running dinosaur ?
   
 4. ### prepare a presentation
-   1. introduction
-   2. creating data sets
-   3. training and testing
-   4  demo part
-   5. summary and future work
+   a. introduction
+   b. creating data sets
+   c. training and testing
+   d  demo part
+   e. summary and future work
 
 5. ### tracking a right hand for mouse
 
