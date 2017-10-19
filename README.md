@@ -9,7 +9,7 @@
    a. making the model recognise a gesture in application program ( stream-lined at real time)
 
 3. ### making a demo program
-   a. caculation program
+   a. calculation program
    
    b. running dinosaur ?
   
