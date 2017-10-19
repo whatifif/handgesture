@@ -9,16 +9,23 @@
 
 3. ### make a demo program
    a. caculation program
+   
    b. running dinosaur ?
   
 4. ### prepare a presentation
    a. introduction
+   
    b. creating data sets
+   
    c. training and testing
+   
    d  demo part
+   
    e. summary and future work
+   
 
 5. ### tracking a right hand for mouse
+
 
 
 
