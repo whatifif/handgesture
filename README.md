@@ -3,7 +3,7 @@
 
 ## TODOs
 
-### get more data of hand gesture.
+1. ### get more data of hand gesture.
 
 ### connecting a trained model to recognise a gesture in main program ( streamlined at real time)
 
