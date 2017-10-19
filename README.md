@@ -1,5 +1,27 @@
 [Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
+
+## TODOs
+
+### get more data of hand gesture.
+
+### connecting a trained model to recognise a gesture in main program ( streamlined at real time)
+
+### make a demo program
+   1. caculation program
+   (2. running dinosaur )
+  
+### prepare a presentation
+   1. introduction
+   2. creating data sets
+   3. training and testing
+   4  demo part
+   5. summary and future work
+
+### tracking a right hand for mouse
+
+
+
 ## Controlling a Computer by Hand Gesture
 
 It would be nice to controll a computer by hand gesture and/or voice remotely without using a keyboard and a mouse. 
@@ -59,6 +81,7 @@ There have been many researches about this hand gesture recognition. What we are
 
 
 ## Is the detection area ( Region of Interest ) for hand needed?
+
 
 
 
