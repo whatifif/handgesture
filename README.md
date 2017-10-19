@@ -20,7 +20,7 @@ D. preparing a presentation
    
    3. training and testing
    
-   4 demo part
+   4. demo
    
    5. summary and future work
    
