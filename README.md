@@ -5,20 +5,20 @@
 
 1. ### get more data of hand gesture.
 
-### connecting a trained model to recognise a gesture in main program ( streamlined at real time)
+2. ### connecting a trained model to recognise a gesture in main program ( streamlined at real time)
 
-### make a demo program
+3. ### make a demo program
    1. caculation program
    (2. running dinosaur )
   
-### prepare a presentation
+4. ### prepare a presentation
    1. introduction
    2. creating data sets
    3. training and testing
    4  demo part
    5. summary and future work
 
-### tracking a right hand for mouse
+5. ### tracking a right hand for mouse
 
 
 
