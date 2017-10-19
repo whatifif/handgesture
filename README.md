@@ -3,17 +3,17 @@
 
 ## TODOs
 
-A. ### get more data of hand gesture.
+A. getting more data of hand gesture.
 
-B. ### connecting a trained model 
+B. connecting a trained model 
    1. making the model recognise a gesture in application program ( stream-lined at real time)
 
-C. ### make a demo program
+C. making a demo program
    1. caculation program
    
    2. running dinosaur ?
   
-D. ### prepare a presentation
+D. preparing a presentation
    1. introduction
    
    2. creating data sets
@@ -25,7 +25,7 @@ D. ### prepare a presentation
    5. summary and future work
    
 
-E. ### tracking a right hand for mouse ?
+E. tracking a right hand for mouse ?
 
 
 
