@@ -1,6 +1,6 @@
 [Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
-[draft-d](README-D.md) | [draft-h](README-H.md) | [draft-j](README-J.md)
+[draft-d](/draft/README-D.md) | [draft-h](/draft/README-H.md) | [draft-j](/draft/README-J.md)
 
 
 ## TODOs
