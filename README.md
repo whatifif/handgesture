@@ -4,31 +4,6 @@
 
 # Controlling a Computer by Hand Gesture
 
-## TODOs
-
-1. ### getting more data of hand gesture.
-
-2. ### connecting a trained model 
-   a. making the model recognise a gesture in application program ( stream-lined at real time)
-
-3. ### making a demo program
-   a. calculation program
-   
-   b. running dinosaur ?
-  
-4. ### preparing a presentation
-   a. introduction
-   
-   b. creating data sets
-   
-   c. training and testing
-   
-   d. demo
-   
-   e. summary and future work
-   
-
-5. ### tracking a right hand for mouse ?
 
 ## Brief Introduction of the project of Team Echo
 
@@ -142,6 +117,31 @@ For a left-handed people, of course we can swap the left and right.
 
 
 
+## TODOs
+
+1. ### getting more data of hand gesture.
+
+2. ### connecting a trained model 
+   a. making the model recognise a gesture in application program ( stream-lined at real time)
+
+3. ### making a demo program
+   a. calculation program
+   
+   b. running dinosaur ?
+  
+4. ### preparing a presentation
+   a. introduction
+   
+   b. creating data sets
+   
+   c. training and testing
+   
+   d. demo
+   
+   e. summary and future work
+   
+
+5. ### tracking a right hand for mouse ?
 
 ### Markdown
 
