@@ -50,28 +50,33 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 
 ## Work flow
 
-1. defining as many hand gestures as possible to cover all the keys on a keyboard.
+1. searching github for open sources and youtube for useful information.
 
-2. creating many data sets accordingly.
+2. defining as many hand gestures as possible to cover all the keys on a keyboard and mouse.
 
-3. searching for a deep learning model which can track and recognise these hand gestures at real time.
+3. coding for tools to create as many data sets as possible in short time.
 
-4. coding for hand gesture recognition
+4. coding to use a deep learning model which can recognise these hand gestures at real time.
 
-5. coding for hand tracking
+5. coding for tracking and capturing hand
 
-6. creating some demos such as basic calculation or a game.
+6. coding for some demos such as basic calculation or a game.
+
+
 
 ## Tools used for Team work
 1. github site for project page: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
 2. github site for coding work : [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
 3. slack for team communication and instant file sharing: [https://sml109.slack.com](https://sml109.slack.com)   
 
-## Hardwares
+## Hardwares and software
 1. Coding with MacBook Air (i7, 8GB RAM)
 2. ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
 3. Microsoft Webcam HD-3000
 4. MacBook Air webcam
+5. opencv and python 2.7
+6. jupyter notebook as python editor
+
 
 ## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
 
@@ -123,14 +128,13 @@ Since we use a skin color detection for hand, background color and our shirts co
 
 The environment light affects skin color significantly. So bright room was avoided. And a blue screen made from blue table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
 
+## Choosing a Deep Learning Model
 
-## Why MxNet?
-
-
-## How can the trained model be transferred to work at smartphone?
+#### Why MxNet?
 
 
-## Is the detection area ( Region of Interest ) for hand needed?
+#### How can the trained model be transferred to work at smartphone?
+
 
 
 
