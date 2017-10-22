@@ -4,8 +4,8 @@
 # Hand Gestures
 
 ## left region
-|![leftclosed](/resources/gestures/lc.jpg)|[leftclosed] as ready sate
-|![leftopen](/resources/gestures/lo.jpg)|[leftopen] as ready sate
+| ![leftclosed](/resources/gestures/lc.jpg) | [leftclosed] as ready sate |
+| ![leftopen](/resources/gestures/lo.jpg) | [leftopen] as ready sate |
 ![leftq](/resources/gestures/lq.jpg)[leftq] as control1
 ![leftw](/resources/gestures/lw.jpg)[leftw] as control2
 ![lefte](/resources/gestures/le.jpg)[lefte] as control3
