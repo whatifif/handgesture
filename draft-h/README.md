@@ -7,10 +7,10 @@ All most people use a desktop or laptop these days. One of serious problem is th
 
 People have used a keyboard and mouse as a standard way of input to computer for a long time. One of the serious problem of using keyboard and mouse is that we are stuck to the keyboard/mouse and sit still while we are using our desktop or laptop computer. This causes a serious health problem on a long run. 
 
-Moreover we are entering the VR ( Virtual reality )/ AR ( Augmented reality ) age and we cannot use keyboard/mouse as we did before. We have to use some kind of mobile controller or HAND GESTURE !!!
+Moreover we are entering the VR ( Virtual reality )/ AR ( Augmented reality ) age and we cannot use keyboard/mouse as we did before. We have to use some kind of mobile controller or GESTURE !!!
 
 ML( Machine Learning ) can recognise our gesture and control the computer as we intented by gesture remotely.
-We will feel like a magician. And by moving our body to control the computer, we can avoid sitting still and getting a health problem. Moreover we can play a game with much more immersively by moving our hand, heads and body.
+We will feel like a magician. And by moving our body to control the computer, we can avoid sitting still and getting a health problem. Moreover we can play a game with much more immersive experience by moving our hands, heads and body.
 
 To replace a keyboard and mouse, we have to devise many subtle gestures and these gestures have to be easy one for people to learn easily like a standard keyboard and mouse.
 
