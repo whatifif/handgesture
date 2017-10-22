@@ -46,7 +46,7 @@ We will feel like a magician. And by moving our body to control the computer, we
 
 To replace a keyboard and mouse, we have to devise many subtle gestures and these gestures have to be easy one for people to learn easily like a standard keyboard and mouse. It may be annoying if we have to learn different gestures to control different devices in future.
 
-We suggest a standard virtual keyboard and standard virtual mouse like following. The goal of this project is to search a possibility of using these subtle gestures to control a computer upto the level to replace a keyboard and mouse completely.
+We suggest a standard virtual keyboard and standard virtual mouse like following. The goal of this project is to search a possibility of using these subtle gestures to control a computer up to the level to replace a keyboard and mouse completely.
 
 
 ## Recent works in this field
