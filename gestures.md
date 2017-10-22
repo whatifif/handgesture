@@ -1,5 +1,8 @@
 [Home](/README.md) | [Gestures](/gestures.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
+# Hand Gestures as a Standard Way of Input to replace Keyboard and Mouse
+![hand gestures](/resources/hand_gestures.png)
+
 
 # Hand Gestures of Left Hand side 
 ( mirrored images for easy capturing )
