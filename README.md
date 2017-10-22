@@ -64,13 +64,13 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 6. [PilotBit Mobile Hand Tracking](http://www.pilotbit.com/): 3D sensor
 
 
-## Chalenging points
+## Challenging points
 
-1. using a webcam not using 3D sensor (depth camera)
+1. using a webcam without using 3D sensor (depth camera)
 
 2. detecting the subtle gestures at real time
 
-3. deep learning running at smartphone
+3. deep learning running at mobile devices such as smartphone, smartglasses and VR/AR headset
 
 
 ## Work flow
