@@ -30,6 +30,14 @@
 
  - Model selections, especially on building a Neural Nework architecture. That is, if the Neural Network is too "deep", it takes long time to converge, and also is not suitable in real-time cameras. While single-layer NN does not performing good enough
  
+### Why MxNet?
+- Super fast
+- Various language bindings: R, Python, Scala, Perl, Julia
+- Strong API interface
+- Scale linearly and easily
+- Easy to deploy into production
+
+
 
 ### Main Work Flow:
 
