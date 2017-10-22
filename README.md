@@ -88,9 +88,9 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 6. creating some demos such as basic calculation or a game.
 
 ## Tools used for Team work
-[github site for project page](https://github.com/whatifif/handgesture)
-[github site for coding work ](https://github.com/whatifif/handgesturecode)
-[ slack, https://sml109.slack.com](https://sml109.slack.com) for team communication and instant file sharing
+1. [github site for project page](https://github.com/whatifif/handgesture)  
+2. [github site for coding work ](https://github.com/whatifif/handgesturecode)  
+3. [ slack, https://sml109.slack.com](https://sml109.slack.com) for team communication and instant file sharing  
 
 ## Hardwares
 1. Coding with MacBook Air (i7, 8GB RAM)
