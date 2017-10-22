@@ -15,7 +15,7 @@
 
 ## Technical Details
 
-- Main Dependencies:
+### Main Dependencies:
  - Python 2.7
  - Opencv 3.2.0
  - MxNet 0.11.0
