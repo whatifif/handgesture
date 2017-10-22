@@ -73,13 +73,21 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 2. github site for coding work : [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
 3. slack for team communication and instant file sharing: [https://sml109.slack.com](https://sml109.slack.com)   
 
-## Hardwares and software
-1. Coding with MacBook Air (i7, 8GB RAM)
-2. ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
-3. Microsoft Webcam HD-3000
-4. MacBook Air webcam
-5. opencv and python 2.7
-6. jupyter notebook as python editor
+## Technical Details
+
+#### Main Dependencies:
+ - Python 2.7
+ - Opencv 3.2.0
+ - MxNet 0.11.0
+ - Numpy 1.13.1
+ - Pandas 0.20.3
+
+#### Hardwares and softwares
+ - Coding with MacBook Air (i7, 8GB RAM)
+ - ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
+ - Microsoft Webcam HD-3000
+ - MacBook Air webcam
+ - jupyter notebook as python editor
 
 
 ## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
