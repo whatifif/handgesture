@@ -2,6 +2,7 @@
 
 [draft-d](/draft-d/README.md) | [draft-h](/draft-h/README.md) | [draft-j](/draft-j/README.md)
 
+# Controlling a Computer by Hand Gesture
 
 ## TODOs
 
@@ -34,21 +35,19 @@
 All most people use a desktop or laptop these days. One of serious problem is that we are stuck to the keyboard and mouse, which will cause a serious health problem on a long run. Moreover in VR/AR age, we cannot use keyboard/mouse. Our purpose is to replace a keyboard and mouse with hand gestures. We have devised a virtual keyboard and virtual mouse with subtle hand gestures and made ML recognise our gestures so that we can control our computer remotely. Amazon echo has ear now. It will have eye in future. We need to make a standard gestures for people to adopt easily like a standard keyboard and mouse. ML will address this for us, human. We used Deep Learning as ML in this project.
 
 
+## Introduction
 
+People have used a keyboard and mouse as a standard way of input to computer for a long time. One of the serious problem of using keyboard and mouse is that we are stuck to the keyboard/mouse and sit still while we are using our desktop or laptop computer. This causes a serious health problem on a long run. 
 
-## Controlling a Computer by Hand Gesture
+Moreover we are entering the VR ( Virtual reality )/ AR ( Augmented reality ) age and we cannot use keyboard/mouse as we did before. We have to use some kind of mobile controller or GESTURE !!!
 
-It would be nice to controll a computer by hand gesture and/or voice remotely without using a keyboard and a mouse. 
+ML( Machine Learning ) can recognise our gesture and control the computer as we intented by gesture remotely.
+We will feel like a magician. And by moving our body to control the computer, we can avoid sitting still and getting a health problem. Moreover we can play a game with much more immersive experience by moving our hands, heads and body.
 
-This can make people freed from the keyboard and mouse, solving the health problem caused by sitting steady for a long time.
+To replace a keyboard and mouse, we have to devise many subtle gestures and these gestures have to be easy one for people to learn easily like a standard keyboard and mouse. It may be annoying if we have to learn different gestures to control different devices in future.
 
-Additionally this makes game-players feel more immersive in a game by using their body for interaction.
+We suggest a standard virtual keyboard and standard virtual mouse like following. The goal of this project is to search a possibility of using these subtle gestures to control a computer upto the level to replace a keyboard and mouse completely.
 
-Currently VR (virtual reality) and AR (augmented reality) use a special controller to replace the keyboard and the mouse for performance reason.
-
-Ideally these controller will be replaced with hand gestures and voice commands.
-
-There have been many researches about this hand gesture recognition. What we are going to achieve is to cover all the keys on a keyboard with as many hand gestures as possible. 
 
 ## Recent works in this field
 
