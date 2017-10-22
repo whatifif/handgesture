@@ -171,10 +171,10 @@ Two ways:
 
 1. The trained model can be install onto the smartphone, and does the prediction in the client side. In this case, the model needs to be periodically updated, and might require a large update pacakage of the application
 
-!()[https://github.com/whatifif/handgesture/blob/master/draft-j/resources/client.png]
+![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/client.png)
 
 2. The trained model stays at the application server, while keeping the detection utility and necessary preprocessing in the client side to reduce the workload overhead on the server. Therefore, the model can be periodically updated without impact on the client application much
-!()[https://github.com/whatifif/handgesture/blob/master/draft-j/resources/server.png]
+![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/server.png)
 
 
 ### Main Work Flow:
