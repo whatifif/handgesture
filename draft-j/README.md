@@ -68,6 +68,8 @@
 
 - Determine the classes (keys) in a more effecient/effective way
 
+- Need more data in training for various situations of the hand. Such as, different skin color, hand size, brightness, and oculus issues. This might modify the model struture if needed
+
 
 
 
