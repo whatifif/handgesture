@@ -206,7 +206,7 @@ The environment light affects skin color significantly. So bright room was avoid
 - Propagation of Standard way of Hand Gestures for future remotely-controlled devices
 
 ## P.S.
-What will be the future of AI world? There will be no work which people have to do for living. So rather than compete for a limited resources, lets focus on making our resources rich and share those rich resources. Human will be multiplanetary species in future and there are infinite number of planets out there in universe. Let AI work for us, human and lets enjoy our lives.
+What will be the future of AI world? There will be no work which people have to do for living. So rather than compete for a limited resources, lets focus on making our resources rich and share those rich resources. Human will be multiplanetary species in future and there are infinite number of planets out there in universe. Lets make AI work for us, human and lets enjoy our lives.
 
 ### [LICENSE](/LICENSE)
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
