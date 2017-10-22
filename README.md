@@ -128,6 +128,7 @@ For a mouse, we can have 10 same gestures as left hand, which cover whole inputs
 
 For a left-handed people, of course we can swap the left and right.
 
+![hand gestures](/resources/gestures/hand_gestures.png)
   
   [gestures for keyboard and mouse](/gestures.md)
 
