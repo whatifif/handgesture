@@ -90,7 +90,7 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
  - MacBook Air webcam
  - jupyter notebook as python editor
 
-![keyboard images](/resources/images.jpg)
+![keyboard images](/resources/images.jpeg)
 ## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
 
 We have two hands normally. We can use one hand for keyboard and the other for a mouse.
