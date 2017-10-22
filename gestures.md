@@ -5,7 +5,7 @@
 
 
 
-## left region
+## Left region
 ![leftclosed](/resources/gestures/lc.jpg)  leftclosed as ready sate  
 ![leftopen](/resources/gestures/lo.jpg)  leftopen as ready sate  
 ![leftq](/resources/gestures/lq.jpg)  leftq as control1  
@@ -19,7 +19,7 @@
 
 
 
-## middle region
+## Middle region
 ![middleclosed](/resources/gestures/mc.jpg)  middleclosed as ready sate  
 ![middleopen](/resources/gestures/mo.jpg)  middleopen as ready sate  
 ![middleq](/resources/gestures/mq.jpg)  middleq as control4  
@@ -33,7 +33,7 @@
 
 
 
-## right region
+## Right region
 ![rightclosed](/resources/gestures/rc.jpg)  rightclosed as ready sate  
 ![rightopen](/resources/gestures/ro.jpg)  rightopen as ready sate  
 ![rightq](/resources/gestures/rq.jpg)  rightq as control8  
