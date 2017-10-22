@@ -1,11 +1,13 @@
 [Home](/README.md) | [Gestures](/gestures.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
 
-# Hand Gestures of Left Hand ( mirrored images for easy capturing )
+# Hand Gestures of Left Hand side 
+( mirrored images for easy capturing )
 
 
+## There are three regions of left hand side for keyboard  
 
-## Left region
+#### Left region
 ![leftclosed](/resources/gestures/lc.jpg)  leftclosed as ready sate  
 ![leftopen](/resources/gestures/lo.jpg)  leftopen as ready sate  
 ![leftq](/resources/gestures/lq.jpg)  leftq as control 1  
@@ -19,7 +21,7 @@
 
 
 
-## Middle region
+#### Middle region
 ![middleclosed](/resources/gestures/mc.jpg)  middleclosed as ready sate  
 ![middleopen](/resources/gestures/mo.jpg)  middleopen as ready sate  
 ![middleq](/resources/gestures/mq.jpg)  middleq as control 4  
@@ -33,7 +35,7 @@
 
 
 
-## Right region
+#### Right region
 ![rightclosed](/resources/gestures/rc.jpg)  rightclosed as ready sate  
 ![rightopen](/resources/gestures/ro.jpg)  rightopen as ready sate  
 ![rightq](/resources/gestures/rq.jpg)  rightq as control 7  
@@ -47,9 +49,10 @@
 
 
 
-# Hand Gestures of Right Hand ( mirrored images for easy capturing )
+# Hand Gestures of Right Hand side
+( mirrored images for easy capturing )
 
-## There is no Left, Middle, Right region
+## There is only one region of right hand side for mouse
 ![mouse closed](/resources/gestures/vc.jpg)  mouse closed as ready sate  
 ![mouse open](/resources/gestures/vo.jpg)  mouse open as ready sate  
 ![mouse q](/resources/gestures/vq.jpg)  mouse q as control 10  
