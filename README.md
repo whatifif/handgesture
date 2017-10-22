@@ -46,7 +46,7 @@ We will feel like a magician. And by moving our body to control the computer, we
 
 To replace a keyboard and mouse, we have to devise many subtle gestures and these gestures have to be easy one for people to learn easily like a standard keyboard and mouse. It may be annoying if we have to learn different gestures to control different devices in future.
 
-We suggest a standard virtual keyboard and standard virtual mouse like following. The goal of this project is to search a possibility of using these subtle gestures to control a computer up to the level to replace a keyboard and mouse completely.
+We suggest a standard virtual keyboard and standard virtual mouse like followings. The goal of this project is to search a possibility of using these subtle gestures to control a computer up to the level to replace a keyboard and mouse completely.
 
 
 ## Recent works in this field
@@ -95,6 +95,15 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 ## Hardwares
 1. Coding with MacBook Air (i7, 8GB RAM)
 2. ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
+
+# Defining as many easy gestures as possible
+- Just imagine there is a virtual keyboard in the air on your left side and you press the key with your hand. Your fingers are making gestures. Those gestures are what this project aims to detect and recognise.
+
+- The left hand side is divided into 3 regions: Left, Middle, Right region and easy gestures are defined.    
+
+- The right hand side is for a mouse and same easy gestures are defined. 
+  
+  [gestures for keyboard](/gestures.md)
 
 ## Why MxNet?
 
