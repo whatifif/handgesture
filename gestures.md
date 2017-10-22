@@ -3,4 +3,4 @@
 
 # Hand Gestures
 
-![leftclosed](https://github.com/whatifif/handgesture/blob/master/resources/gestures/lc.jpg)[leftclosed] as ready sate
+![leftclosed](https://github.com/whatifif/handgesture/resources/gestures/lc.jpg)[leftclosed] as ready sate
