@@ -128,7 +128,7 @@ Since we use a skin color detection for hand, background color and our shirts co
 
 The environment light affects skin color significantly. So bright room was avoided. And a blue screen made from blue table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
 
-## Choosing a Deep Learning Model
+## Deep Learning Model to recognise the gesture
 
 #### Why MxNet?
 
