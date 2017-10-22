@@ -3,6 +3,8 @@
 
 # Hand Gestures
 
+
+
 ## left region
 ![leftclosed](/resources/gestures/lc.jpg)  leftclosed as ready sate  
 ![leftopen](/resources/gestures/lo.jpg)  leftopen as ready sate  
@@ -15,6 +17,8 @@
 ![left4](/resources/gestures/l4.jpg)  left4 as number 4 or alphabet 4  
 ![left5](/resources/gestures/l5.jpg)  left5 as number 5 or alphabet 5  
 
+
+
 ## middle region
 ![middleclosed](/resources/gestures/mc.jpg)  middleclosed as ready sate  
 ![middleopen](/resources/gestures/mo.jpg)  middleopen as ready sate  
@@ -26,6 +30,8 @@
 ![middle3](/resources/gestures/m3.jpg)  middle3 as number 8 or alphabet 8  
 ![middle4](/resources/gestures/m4.jpg)  middle4 as number 9 or alphabet 9  
 ![middle5](/resources/gestures/m5.jpg)  middle5 as number 0 or alphabet 10  
+
+
 
 ## right region
 ![rightclosed](/resources/gestures/rc.jpg)  rightclosed as ready sate  
