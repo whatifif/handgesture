@@ -96,14 +96,41 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 1. Coding with MacBook Air (i7, 8GB RAM)
 2. ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
 
-# Defining as many easy gestures as possible
-- Just imagine there is a virtual keyboard in the air on your left side and you press the key with your hand. Your fingers are making gestures. Those gestures are what this project aims to detect and recognise.
 
-- The left hand side is divided into 3 regions: Left, Middle, Right region and easy gestures are defined.    
+## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
 
-- The right hand side is for a mouse and same easy gestures are defined. 
+We have two hands normally. We can use one hand for keyboard and the other for a mouse.
+The standard gestures should be easy for people to learn easily. Just imagine that there is a virtual keyboard in front of your left side and virtual mouse on your right side. Lets focus on virtual keyboard first.
+
+We divided the left side into three region
+
+1. left region
+2. middle region
+3. right region
+
+We can make 10 easy distinct gesture on each region:
+
+1. closed hand
+2. open hand
+3. thumb only
+4. additional index finger
+5. additional middle finger
+6. folding first finger
+7. folding second finger
+8. folding middle finger
+9. folding index finger
+10 folding thumb
+
+If we use 6, 7, 8, 9, 10 as inputs, we have 5 * 3 = 15 different gestures in each region and 15 * 3 = 45 gestures in total region.
+
+If we use 3, 4, 5 as control, we have 3 * 3 = 9 controls and 45 * 9 = 135 different gestures which will cover the whole range of keys ( numbers, lower alphabet, upper alphabet, special keys and controls )
+
+For a mouse, we can have 10 same gestures as left hand, which cover whole inputs from mouse. Our center of hand is a mouse cursor. The mouse cursor of computer will track the center of the right hand.
+
+For a left-handed people, of course we can swap the left and right.
+
   
-  [gestures for keyboard](/gestures.md)
+  [gestures for keyboard and mouse](/gestures.md)
 
 ## Why MxNet?
 
