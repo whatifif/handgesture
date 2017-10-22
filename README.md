@@ -45,11 +45,12 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 
 ## Challenging points
 
-1. using a webcam without using 3D sensor (depth camera)
+- using a webcam without using 3D sensor (depth camera)
 
-2. detecting the subtle gestures at real time
+- detecting the subtle gestures at real time
 
-3. deep learning running at mobile devices such as smartphone, smartglasses and VR/AR headset
+- deep learning running at mobile devices such as smartphone, smartglasses and VR/AR headset
+
 
 
 ## Work flow
@@ -140,41 +141,63 @@ Since we use a skin color detection for hand, background color and our shirts co
 
 The environment light affects skin color significantly. So bright room was avoided. And a blue screen made from blue table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
 
-## Deep Learning Model to recognise the gesture
 
-#### Why MxNet?
+# Deep Learning Model to recognise the gesture
+
+## Difficulties
+ - Very few existing dataset fits our purpose. Therefore, we have to capture the hand picture, and do the labeling. A.k.a, we will have to make the dataset our own
+
+ - Tracking and recognizing hand are 2 challenges in this project, and each requires large amount of time to work on. Therefore, in this project, we are firstly focusing on Recognition, and used a just feasible approach for Hand Detection for saving time. 
+
+ - Model selections, especially on building a Neural Nework architecture. That is, if the Neural Network is too "deep", it takes long time to converge, and also is not suitable in real-time cameras. While single-layer NN does not performing good enough
+
+## Why MxNet?
 
 
-#### How can the trained model be transferred to work at smartphone?
+## How can the trained model be transferred to work at smartphone?
+
+
+
+### Main Work Flow:
+
+![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/workflow.png)
+
+### Model Details
+
+ - ~1800 images for training
+ - ~200 images for testing
+ - Mini-batch size 128
+ - Model converge around 400 iterations, with Learning Rate 0.001
+ - Weight decay set to 0.001 for regularize the model for overfitting
+ - Achieved over 97% accuracy on evaluating test dataset
+
+    ![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/learning_curve.png)
+
+
+## Our Progress
+
+- Use Left hand for keyboard, Right hand for mouse
+
+- At current stage, Left hand can be used for around 30 different keys in the keyboard, based on the hand gesture, and their angles in the picture
 
 
 
 
-## TODOs
+## Demo
+- Performing simple calculations using different LEFT hand gestures through web cam.
+![Alt Text](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/demo.gif)
 
-1. ### getting more data of hand gesture.
+- Using Right hand to control the mouse cursor.
+![Alt Text](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/out-mouse.gif)
 
-2. ### connecting a trained model 
-   a. making the model recognise a gesture in application program ( stream-lined at real time)
+## Future Work
+- Improve our Hand Detection technical, this can be extended to ultilise a Deep Learning Model, and get a more accurate feedback
 
-3. ### making a demo program
-   a. calculation program
-   
-   b. running dinosaur ?
-  
-4. ### preparing a presentation
-   a. introduction
-   
-   b. creating data sets
-   
-   c. training and testing
-   
-   d. demo
-   
-   e. summary and future work
-   
+- Determine the classes (keys) in a more effecient/effective way
 
-5. ### tracking a right hand for mouse ?
+- Need more data in training for various situations of the hand. Such as, different skin color, hand size, brightness, and oculus issues. This might modify the model struture if needed
+
+
 
 ### Markdown
 
