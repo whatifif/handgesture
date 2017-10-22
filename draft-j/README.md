@@ -37,7 +37,12 @@
 - Scale linearly and easily
 - Easy to deploy into production
 
+### How can the trained model be transferred to work at smartphone?
+Two ways:
 
+1. The trained model can be install onto the smartphone, and does the prediction in the client side. In this case, the model needs to be periodically updated, and might require a large update pacakage of the application
+
+2. The trained model stays at the application server, while keeping the detection utility and necessary preprocessing in the client side to reduce the workload overhead on the server. Therefore, the model can be periodically updated without impact on the client application much
 
 ### Main Work Flow:
 
