@@ -176,9 +176,13 @@ The environment light affects skin color significantly. So bright room was avoid
 
 ## Our Progress
 
-- Use Left hand for keyboard, Right hand for mouse
+- Confirmed the possibility to use subtle hand gestures for controlling a computer remotely
 
-- At current stage, Left hand can be used for around 30 different keys in the keyboard, based on the hand gesture, and their angles in the picture
+- Suggested a standard way of hand gestures for people to learn easily and replace a whole keyboard and mouse 
+
+- Use Left hand for keyboard, Right hand for mouse, which can be swapped for left-handed people
+
+- Left hand can be used for 135 different keys in the keyboard, based on the hand gesture, and their angles in the picture
 
 
 
@@ -197,7 +201,12 @@ The environment light affects skin color significantly. So bright room was avoid
 
 - Need more data in training for various situations of the hand. Such as, different skin color, hand size, brightness, and oculus issues. This might modify the model struture if needed
 
+- Advanced training method so as not to require too many data sets for training such as 3D model of hand for training
 
+- Propagation of Standard way of Hand Gestures for future remotely-controlled devices
+
+## P.S.
+What will be the future of AI world? There will be no work which people have to do for living. So rather than compete for a limited resources, lets focus on making our resources rich and share those rich resources. Human will be multiplanetary species in future and there are infinite number of planets out there in universe. Let AI work for us, human and lets enjoy our lives.
 
 ### [LICENSE](/LICENSE)
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
