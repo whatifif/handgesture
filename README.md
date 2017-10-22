@@ -87,6 +87,15 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 
 6. creating some demos such as basic calculation or a game.
 
+## Tools used for Team work
+[github site for project page](https://github.com/whatifif/handgesture)
+[github site for coding work ](https://github.com/whatifif/handgesturecode)
+[ slack, https://sml109.slack.com](https://sml109.slack.com) for team communication and instant file sharing
+
+## Hardwares
+1. Coding with MacBook Air (i7, 8GB RAM)
+2. ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
+
 ## Why MxNet?
 
 
