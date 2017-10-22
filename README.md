@@ -5,7 +5,7 @@
 project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
 project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesture)  
 project slack: [https://sml109.slack.com](https://sml109.slack.com)  
-
+project team name: Team Echo
 
 # Controlling a Computer by Hand Gesture
 
