@@ -2,6 +2,11 @@
 
 [draft-d](/draft-d/README.md) | [draft-h](/draft-h/README.md) | [draft-j](/draft-j/README.md)
 
+project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)
+project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesture)
+project slack: [https://sml109.slack.com](https://sml109.slack.com)
+
+
 # Controlling a Computer by Hand Gesture
 
 
