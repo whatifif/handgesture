@@ -70,7 +70,8 @@ We suggest a standard virtual keyboard and standard virtual mouse like following
 ## Hardwares
 1. Coding with MacBook Air (i7, 8GB RAM)
 2. ML Model training with nvidia GTX 960 (2GB Graphic memory) on i7 CPU, 8GB RAM, ubunutu 14.04 64bit personal computer
-
+3. Microsoft Webcam HD-3000
+4. MacBook Air webcam
 
 ## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
 
@@ -106,6 +107,22 @@ For a left-handed people, of course we can swap the left and right.
 
   
   [gestures for keyboard and mouse](/gestures.md)
+
+## Making a data set
+To train the ML, several thousand data are needed and these data are to be prepared by ourselves.
+So we have to make a program for capturing the hand images easily. With the capturing program, about 2000 hand images were captured. 
+
+## Detecting and tracking Hand
+Since we have to move our hands freely in front of webcam, our hands should be detected correctly in the frame of webcam image. Haar cascade, background substraction and skin color detection were tried to track a hand. Skin color detection was found to be stable.
+
+### detection region for hand and mouse
+Since our face has a same skin color as our hands, we have to find ways to ignore the face. Haar cascade can be applied for this purpose. But due to the time limitation of this project, we simply defined a detection region and tried not to push our face into that region.
+
+### tracking hand
+- Since we use a skin color detection for hand, background color and our shirts color should have contrasting color to skin color. And we have to wear a long sleeve shirt to hide our arm from detection also.
+
+- The environment light affects skin color significantly. So bright room was avoided. And a blue screen made from blue table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
+
 
 ## Why MxNet?
 
