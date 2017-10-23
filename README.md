@@ -177,7 +177,7 @@ There are two detection regions. When the buttons below are clicked, detected im
 - Easy to deploy into production
 
 
-## How can the trained model be transferred to work at smartphone?
+## How can the trained model be transferred to work at mobile devices such as smartphone?
 Two ways:
 
 1. The trained model can be install onto the smartphone, and does the prediction in the client side. In this case, the model needs to be periodically updated, and might require a large update pacakage of the application
