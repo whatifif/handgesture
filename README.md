@@ -161,6 +161,8 @@ The environment light affects skin color significantly. So bright room was avoid
  - Tracking and recognizing hand are 2 challenges in this project, and each requires large amount of time to work on. Therefore, in this project, we are firstly focusing on Recognition, and used a just feasible approach for Hand Detection for saving time. 
 
  - Model selections, especially on building a Neural Nework architecture. That is, if the Neural Network is too "deep", it takes long time to converge, and also is not suitable in real-time cameras. While single-layer NN does not performing good enough
+ 
+ - 200x200 pixel image data in jpg format gets out of memory problem when Nvidia GTX 960 ( 2GB Graphic memory). So 64x64 version of data are prepared and used to train a ML.
 
 ## Why MxNet?
 - Super fast
