@@ -154,7 +154,7 @@ Since we use a skin color for tracking a hand, background color and our shirts c
 The environment light affects skin color significantly. So bright room was avoided. And a blue screen made with blue color table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
 
 - Main program used to capture hand images:  
-There are two detection regions. When the buttons below are clicked, detected image is captured, resized into 200x200 and saved in jpg format. At the same time, the file name is saved in csv file also.  
+There are two detection regions. When the buttons below are clicked, detected image is captured, resized into 200x200 and saved in jpg format. At the same time, the file name is saved in csv file also. 2000 data were obtained in short period.  
 
 ![tracking hands](/resources/tracking_hands800x.jpg)
 
