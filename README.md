@@ -169,7 +169,7 @@ There are two detection regions. When the buttons below are clicked, detected im
  
  - 200x200 pixel image data in jpg format gets out of memory problem when Nvidia GTX 960 ( 2GB Graphic memory) is used for traininga a Deep Learning Model. So 64x64 version of data are prepared and used to train a ML.
 
-## Why MxNet?
+## Why MxNet is chosen as a Deep Learning Model of this project?
 - Super fast
 - Various language bindings: R, Python, Scala, Perl, Julia
 - Strong API interface
