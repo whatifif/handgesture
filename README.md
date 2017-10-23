@@ -147,7 +147,7 @@ Since our face has a same skin color as our hands, we have to find ways to ignor
 
 
 #### tracking hands
-Since we use a skin color detection for hand, background color and our shirts color should have contrasting color to skin color. And we have to wear a long sleeve shirt to hide our arm from detection also.
+Since we use a skin color for tracking a hand, background color and our shirts color should be a contrasting color to skin color. And we have to wear a long sleeve shirt to hide our arm from detection also.
 
 The environment light affects skin color significantly. So bright room was avoided. And a blue screen made with blue color table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
 
