@@ -119,6 +119,7 @@ We can make 10 easy distinct gesture on each region:
 7. folding second finger
 8. folding middle finger
 9. folding index finger  
+
 10 folding thumb
 
 If we use 6, 7, 8, 9, 10 as inputs, we have 5 * 3 = 15 different gestures in each region and 15 * 3 = 45 gestures in total region.
