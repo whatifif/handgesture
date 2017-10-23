@@ -235,7 +235,7 @@ Two ways:
 
 - Advanced training method so as not to require too many data sets, such as using 3D hand model instead of 2D hand images for training.
 
-- Establishing and Propagating a standard Hand Gestures for remotely-controlled devices
+- Establishing and Propagating the standard Hand Gestures for remotely-controlled devices
 
 ## P.S.: What will be the future of us, human in AI (Artificial Intelligence) age?
 What will be the future of us, human in AI age? There will be no work which human have to do for living. We may have Universal Basic Income and have freedom to do what we like to do. AI may make an utopian world for human. Then to reach the utopian world as soon as possible, why not focus on developing AI rather than competing for limited resources and being greedy?  By using technology including AI, we can make our resources rich enough to be used for all human. Human will be multiplanetary species in future and there are infinite resources out there in universe. Lets make AI work for us, human and lets enjoy our lives as a human being.
