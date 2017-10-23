@@ -28,9 +28,9 @@ Moreover we are entering the VR ( Virtual reality )/ AR ( Augmented reality ) ag
 ML( Machine Learning ) can recognise our gesture and control the computer as we intented by gesture remotely.
 We will feel like a magician. And by moving our body to control the computer, we can avoid sitting still and getting a health problem. Moreover we can play a game with much more immersive experience by moving our hands, heads and body.
 
-To replace a keyboard and mouse, we have to devise many subtle gestures and these gestures have to be easy one for people to learn easily like a standard keyboard and mouse. It may be annoying if we have to learn different gestures to control different devices in future.
+To replace a keyboard and mouse, we have to devise many subtle gestures and these gestures have to be easy one for people to learn easily. And these gestures should be a standard like a standard keyboard and mouse. It may be annoying if we have to learn different gestures to control different devices in future.
 
-We suggest a standard virtual keyboard and standard virtual mouse like followings. The goal of this project is to search a possibility of using these subtle gestures to control a computer up to the level to replace a keyboard and mouse completely.
+We suggest a standard virtual keyboard and standard virtual mouse like follows. The goal of this project is to search a possibility of using these subtle gestures to control a computer up to the level to replace a keyboard and mouse completely.
 
 
 ## Recent works in this field
