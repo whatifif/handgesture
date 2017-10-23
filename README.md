@@ -140,12 +140,15 @@ So we have to make a program for capturing the hand images easily. With the capt
 Since we have to move our hands freely in front of webcam, our hands should be detected correctly in the frame of webcam image. Haar cascade, background substraction and skin color detection were tried to track a hand. Skin color detection was found to be stable.
 
 #### detection region for hand and mouse
-Since our face has a same skin color as our hands, we have to find ways to ignore the face. Haar cascade can be applied for this purpose. But due to the time limitation of this project, we simply defined a detection region and tried not to push our face into that region.
+Since our face has a same skin color as our hands, we have to find ways to ignore the face. Haar cascade can be applied for this purpose. But due to the time limitation of this project, we simply defined a detection region and tried not to push our face into that region.  
+
+![blue_background used to capture hand images](/blue_background.md)
+
 
 #### tracking hands
 Since we use a skin color detection for hand, background color and our shirts color should have contrasting color to skin color. And we have to wear a long sleeve shirt to hide our arm from detection also.
 
-The environment light affects skin color significantly. So bright room was avoided. And a blue screen made from blue table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
+The environment light affects skin color significantly. So bright room was avoided. And a blue screen made with blue color table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
 
 ![tracking hands](/resources/tracking_hands800x.jpg)
 
