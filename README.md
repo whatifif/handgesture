@@ -195,13 +195,13 @@ Two ways:
 
 ## Our Progress
 
-- Confirmed the possibility to use subtle hand gestures for controlling a computer remotely
+- The possibility to use subtle hand gestures for controlling a computer remotely is confirmed.
 
-- Suggested a standard way of hand gestures for people to learn easily and replace a whole keyboard and mouse 
+- A standard way of hand gestures for people to learn easily and replace a whole keyboard and mouse is suggested.
 
-- Use Left hand for keyboard, Right hand for mouse, which can be swapped for left-handed people
+- Left hand is used for keyboard, Right hand is used for mouse, which can be swapped for left-handed people
 
-- Left hand can be used for 135 different keys in the keyboard, based on the hand gesture, and their angles in the picture
+- Left hand can have 30 gestures based on the hand gesture, and their angles in the picture. This 30 gestures can be mapped to 135 different keys in the keyboard.
 
 
 
