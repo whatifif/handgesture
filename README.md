@@ -231,12 +231,12 @@ Two ways:
 
 - Need more data in training for various situations of the hand. Such as, different skin color, hand size, brightness, and oculus issues. This might modify the model struture if needed
 
-- Advanced training method so as not to require too many data sets for training such as 3D model of hand for training
+- Advanced training method so as not to require too many data sets such as using 3D hand model instead of 2D hand images for training.
 
-- Propagation of Standard way of Hand Gestures for future remotely-controlled devices
+- Establishing a standard way of Hand Gestures for remotely-controlled devices
 
-## P.S.
-What will be the future of us in AI world? There will be no work which we have to do for living. So rather than compete for limited resources, lets focus on making our resources rich and share those rich resources. Human will be multiplanetary species in future and there are infinite number of planets out there in universe. Lets make AI work for us, human and lets enjoy our lives.
+## P.S.: What will be the future of us, human in AI world?
+What will be the future of us, human in AI world? There will be no work which human have to do for living. We may have Universal Basic Income and have freedom to do what we like to do. AI may make an utopian world for human. Then to reach the utopian world as soon as possible, why not focus on developing AI rather than competing for limited resources and being greedy? We can make our resources rich to be used for all human using technology. Human will be multiplanetary species in future and there are infinite resources out there in universe. Lets make AI work for us, human and lets enjoy our lives as a human being.
 
 ### [LICENSE](/LICENSE)
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
