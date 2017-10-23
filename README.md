@@ -169,7 +169,7 @@ There are two detection regions. When the buttons below are clicked, detected im
  
  - 200x200 pixel image data in jpg format gets out of memory problem when Nvidia GTX 960 ( 2GB Graphic memory) is used for traininga a Deep Learning Model. So 64x64 version of data are prepared and used to train a ML.
  
- - There are intermediate gestures between any two gestures while capturing at real time. If ML continuously predicts these intermediate gestures and is forced to predict, ML will make much mistakes. We had to capture only 1 out of 10 frames and only if the 3 consecutive predictions are same, we took the gesture as a final gesture. So the delay shown on demo is not the actual delay due to ML processing. 
+ - There are intermediate gestures between any two gestures while capturing at real time. If ML is forced to continuously predicts these intermediate gestures, ML will make much mistakes. We had to capture only 1 out of 10 frames and only if the 3 consecutive predictions are same, we took the gesture as a final gesture. So the delay shown on demo is not the actual delay due to ML processing. 
 
 ## Why MxNet is chosen as a Deep Learning Model of this project?
 - Super fast
