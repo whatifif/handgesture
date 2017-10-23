@@ -204,7 +204,7 @@ Two ways:
     ![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/learning_curve.png)
 
 
-## Our Progress
+## Summary of Progress
 
 - The possibility to use subtle hand gestures for controlling a computer remotely is confirmed.
 
