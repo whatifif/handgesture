@@ -97,6 +97,7 @@ We suggest a standard virtual keyboard and standard virtual mouse like follows. 
 
 
 ## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
+- Using hand for a future virtual keyboard
 ![virtual keyboard](/resources/virtual-keyboard2.jpg)  
 
 We have two hands normally. We can use one hand for keyboard and the other for a mouse.
@@ -129,6 +130,7 @@ For a right hand as a mouse, we can have 10 same gestures as left hand, which co
 
 For a left-handed people, of course we can swap the left with the right.
 
+- 30 hand gestures suggested as a standard way of input for remotely-controlled devices.
 ![hand gestures](/resources/gestures/hand_gestures.png)
   
   [See the detailed gestures for keyboard and mouse](/gestures.md)
@@ -150,6 +152,9 @@ Since our face has a same skin color as our hands, we have to find ways to ignor
 Since we use a skin color for tracking a hand, background color and our shirts color should be a contrasting color to skin color. And we have to wear a long sleeve shirt to hide our arm from detection also.
 
 The environment light affects skin color significantly. So bright room was avoided. And a blue screen made with blue color table cloth was used as a background to get a good data. It turns out that the whiteboard is a good background also.
+
+- Main program used to capture hand images:  
+There are two detection regions. When the buttons below are clicked, detected image is captured, resized into 200x200 and saved in jpg format. At the same time, the file name is saved in csv file also.  
 
 ![tracking hands](/resources/tracking_hands800x.jpg)
 
