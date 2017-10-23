@@ -118,8 +118,7 @@ We can make 10 easy distinct gesture on each region:
 6. folding first finger
 7. folding second finger
 8. folding middle finger
-9. folding index finger  
-
+9. folding index finger
 10 folding thumb
 
 If we use 6, 7, 8, 9, 10 as inputs, we have 5 * 3 = 15 different gestures in each region and 15 * 3 = 45 gestures in total region.
@@ -132,7 +131,7 @@ For a left-handed people, of course we can swap the left and right.
 
 ![hand gestures](/resources/gestures/hand_gestures.png)
   
-  [gestures for keyboard and mouse](/gestures.md)
+  [See the detailed gestures for keyboard and mouse](/gestures.md)
 
 ## Making a data set
 To train the ML, several thousand data are needed and these data are to be prepared by ourselves.
