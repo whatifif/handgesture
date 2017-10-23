@@ -210,7 +210,7 @@ Two ways:
 
 - The possibility to use subtle hand gestures for controlling a computer remotely is confirmed.
 
-- A standard way of hand gestures for people to learn easily and replace a whole keyboard and mouse is suggested.
+- A standard hand gestures for people to learn easily and replace a whole keyboard and mouse is suggested.
 
 - Left hand is used for keyboard, Right hand is used for mouse, which can be swapped for left-handed people
 
