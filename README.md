@@ -135,7 +135,7 @@ For a left-handed people, of course we can swap the left with the right.
 
 ## Making a data set
 To train the ML, several thousand data are needed and these data are to be prepared by ourselves.
-So we have to make a program for capturing the hand images easily. With the capturing program, about 2000 hand images were captured. 
+So we have to make a program for capturing the hand images easily. With the capturing program, about 2000 hand images were captured in short period.
 
 ## Detecting and tracking Hand
 Since we have to move our hands freely in front of webcam, our hands should be detected correctly in the frame of webcam image. Haar cascade, background substraction and skin color detection were tried to track a hand. Skin color detection was found to be stable.
@@ -143,7 +143,7 @@ Since we have to move our hands freely in front of webcam, our hands should be d
 #### detection region for hand and mouse
 Since our face has a same skin color as our hands, we have to find ways to ignore the face. Haar cascade can be applied for this purpose. But due to the time limitation of this project, we simply defined a detection region and tried not to push our face into that region.  
 
-![blue_background used to capture hand images](/blue_background.md)
+![See the blue_background used to capture hand images](/blue_background.md)
 
 
 #### tracking hands
