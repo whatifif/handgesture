@@ -96,7 +96,7 @@ We suggest a standard virtual keyboard and standard virtual mouse like follows. 
  - jupyter notebook as python editor
 
 
-## Hand Gestures as a Standard Way to replace a Keyboard and Mouse
+## Hand Gestures as a Standard Way of Input like a Keyboard and a Mouse
 - Using hand for a future virtual keyboard
 ![virtual keyboard](/resources/virtual-keyboard2.jpg)  
 
