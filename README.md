@@ -167,7 +167,7 @@ There are two detection regions. When the buttons below are clicked, detected im
 
  - Model selections, especially on building a Neural Nework architecture. That is, if the Neural Network is too "deep", it takes long time to converge, and also is not suitable in real-time cameras. While single-layer NN does not performing good enough
  
- - 200x200 pixel image data in jpg format gets out of memory problem when Nvidia GTX 960 ( 2GB Graphic memory) is used for traininga a Deep Learning Model. So 64x64 version of data are prepared and used to train a ML.
+ - 200x200 pixel image data in jpg format gets "out of memory" error when Nvidia GTX 960 ( 2GB Graphic memory) is used for training a Deep Learning Model. So 64x64 version of data are prepared and used to train a Model.
  
  - There are intermediate gestures between any two gestures while capturing at real time. If ML is forced to continuously predict these intermediate gestures, ML will make much mistakes. We had to capture only 1 out of 10 frames and only if the 3 consecutive predictions are same, we took the gesture as a final gesture. So the delay shown on demo is not the actual delay due to ML processing. 
 
