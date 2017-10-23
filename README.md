@@ -231,7 +231,7 @@ Two ways:
 
 - Need more data in training for various situations of the hand. Such as, different skin color, hand size, brightness, and oculus issues. This might modify the model struture if needed
 
-- Advanced training method so as not to require too many data sets such as using 3D hand model instead of 2D hand images for training.
+- Advanced training method so as not to require too many data sets, such as using 3D hand model instead of 2D hand images for training.
 
 - Establishing a standard way of Hand Gestures for remotely-controlled devices
 
