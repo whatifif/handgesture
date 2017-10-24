@@ -17,20 +17,14 @@
 - Handling the mouse  
 [http://pythonhosted.org/pynput/mouse.html](http://pythonhosted.org/pynput/mouse.html)  
 
-[leapmotion](https://www.leapmotion.com/): Reach into virtual reality with your bare hands
+- real-time object detection  
+[https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
 
-[manomotion](https://www.manomotion.com/get-started/) : real-time 3D gestural analysis. 
-ManoMotion provides a framework for real- time 3D gestural analysis. Minimal hardware, minimal computing power. All that’s required is a simple RGB camera found in everyday smartphone.
+- GestuRe: A mixed-initiative interactive machine learning system for recognizing hand gestures
+[https://github.com/atduskgreg/gestuRe](https://github.com/atduskgreg/gestuRe): 
 
-[yolo](https://pjreddie.com/darknet/yolo/) : real-time object detection
-
-[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation-reinstallation-and-uninstallation)
-
-[openpose video](https://spectrum.ieee.org/video/robotics/robotics-software/robots-learn-to-speak-body-language)
-
-[GestuRe](https://github.com/atduskgreg/gestuRe): GestuRe: A mixed-initiative interactive machine learning system for recognizing hand gestures
-
-[hand gesture dataset](http://lttm.dei.unipd.it/downloads/gesture/)
+- Hand Gesture Datasets  
+[http://lttm.dei.unipd.it/downloads/gesture/](http://lttm.dei.unipd.it/downloads/gesture/)  
 
 [handposegenerator](http://lttm.dei.unipd.it/downloads/handposegenerator/index.html)
 
