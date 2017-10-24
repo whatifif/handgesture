@@ -107,6 +107,10 @@ We divided the left side into three regions
 2. middle region
 3. right region
 
+- left, middle and right region of Left side ( images are flipped horizontally so do not be confused )  
+![left middle right region of Lest side](/resources/gestures/l-m-r.png)
+
+
 We can make 10 easy distinct gestures on each region:
 
 1. closed hand
