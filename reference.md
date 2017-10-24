@@ -5,17 +5,17 @@
 - OpenCV documentaion  
 [https://docs.opencv.org/2.4.13/](https://docs.opencv.org/2.4.13/)
 
-- Opencv python hand gesture recognition
+- Opencv python hand gesture recognition  
 [http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html](http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html)  
 
-- 
-[Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python)
+- Fingers-Detection-using-OpenCV-and-Python  
+[https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python)
 
 - Mahaveerverma's hand gesture recognition
 [https://github.com/mahaveerverma/hand-gesture-recognition-opencv](https://github.com/mahaveerverma/hand-gesture-recognition-opencv)  
 
-
-[handling the mouse](http://pythonhosted.org/pynput/mouse.html)
+- Handling the mouse  
+[http://pythonhosted.org/pynput/mouse.html](http://pythonhosted.org/pynput/mouse.html)  
 
 [leapmotion](https://www.leapmotion.com/): Reach into virtual reality with your bare hands
 
