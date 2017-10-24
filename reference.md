@@ -1,6 +1,22 @@
 [Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
-### Reference
+# References  
+
+- OpenCV documentaion  
+[https://docs.opencv.org/2.4.13/](https://docs.opencv.org/2.4.13/)
+
+- Opencv python hand gesture recognition
+[http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html](http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html)  
+
+- 
+[Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python)
+
+- Mahaveerverma's hand gesture recognition
+[https://github.com/mahaveerverma/hand-gesture-recognition-opencv](https://github.com/mahaveerverma/hand-gesture-recognition-opencv)  
+
+
+[handling the mouse](http://pythonhosted.org/pynput/mouse.html)
+
 [leapmotion](https://www.leapmotion.com/): Reach into virtual reality with your bare hands
 
 [manomotion](https://www.manomotion.com/get-started/) : real-time 3D gestural analysis. 
