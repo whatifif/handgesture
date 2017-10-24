@@ -50,4 +50,14 @@ For a mouse, we can have 10 same gestures as left hand, which cover whole inputs
 For a left-handed people, of course we can swap the left and right.
 
 
+## My thought
+
+Our project confirmed using those hand gestures to replace a keyboard and mouse completely.
+And we suggested a standard hand gestures to establish a standard way of input for all remotely-controlled devices 
+because without standard way, people have to learn each gestures for each device, which will be annoying and forgettable.
+
+I think that  AI should directly affect the physical world to be practically useful for human since we are physical beings.
+ AI should have body ( arms and legs) as well as ears and eyes.
+That is why I am interested in robot and it would be useful if these robots can recognise humans intention by hand gestures.
+
 
