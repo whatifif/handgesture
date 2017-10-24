@@ -226,15 +226,17 @@ Two ways:
 ![Alt Text](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/out-mouse.gif)
 
 ## Future Work
-- Improve our Hand Detection technical, this can be extended to ultilise a Deep Learning Model, and get a more accurate feedback
+- Improve our Hand Detection, this can be extended to ultilise a Deep Learning Model, and get a more accurate feedback
 
-- Determine the classes (keys) in a more effecient/effective way
+- Add 'unknown' class if the probability is under criteria. When classified as 'unknown', immediately capture next frame without waiting the next 10 frames. 
+
+- Add more gestures such as raising 1st finger, index finger, index and middle finger, 1st and thumb funger 
 
 - Need more data in training for various situations of the hand. Such as, different skin color, hand size, brightness, and oculus issues. This might modify the model struture if needed
 
 - Advanced training method so as not to require too many data sets, such as using 3D hand model instead of 2D hand images for training.
 
-- Establishing and Propagating the standard Hand Gestures for remotely-controlled devices
+- Establishing and propagating the standard Hand Gestures for mobile and remotely-controlled devices
 
 ## P.S.: What will be the future of human in AI (Artificial Intelligence) age?
 What will be the future of us, human in AI age? There will be no work which human have to do for living. We may have Universal Basic Income and have freedom to do what we like to do. AI may make an utopian world for human. Then to reach the utopian world as soon as possible, why not cooperate in developing AI rather than compete for limited resources and be greedy?  By using technology including AI, we can make our resources rich enough to be used by all human. Human will be multiplanetary species in future and there are infinite resources out there in universe. Lets make AI work for us, human and lets enjoy our lives as a human being.
