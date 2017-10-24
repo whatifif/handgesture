@@ -26,7 +26,7 @@
 - Hand Gesture Datasets  
 [http://lttm.dei.unipd.it/downloads/gesture/](http://lttm.dei.unipd.it/downloads/gesture/)  
 
-- HandGenerator 
+- HandGenerator   
 [http://lttm.dei.unipd.it/downloads/handposegenerator/index.html](http://lttm.dei.unipd.it/downloads/handposegenerator/index.html)  
 
 - YOLO: Real-Time Object Detection  
@@ -51,7 +51,7 @@
 - Kinect Finger Recognition For Games  
 [https://www.youtube.com/watch?v=NqjopQmqWAE](https://www.youtube.com/watch?v=NqjopQmqWAE)
 
-- IMPRESSIVE HAND TRACKING! | Blocks VR (Oculus Rift DK2 + Leap Motion Orion )
+- IMPRESSIVE HAND TRACKING! | Blocks VR (Oculus Rift DK2 + Leap Motion Orion )  
 [https://www.youtube.com/watch?v=LJPxyWM9Ujg](https://www.youtube.com/watch?v=LJPxyWM9Ujg)
 
 - OpenCV + Python + Hand Tracking + Gesture Recognition  
@@ -60,10 +60,10 @@
 - OpenCV Python Webcam Hand Gesture Detection API  
 [https://www.youtube.com/watch?v=oH0ZkfFoeYU](https://www.youtube.com/watch?v=oH0ZkfFoeYU)
 
-- Hand Gesture Detection AI With Convolutional Neural Networks
+- Hand Gesture Detection AI With Convolutional Neural Networks  
 [https://www.youtube.com/watch?v=Y6oLbRKwmPk](https://www.youtube.com/watch?v=Y6oLbRKwmPk)
 
-- Playing Mario With Hand Gesture Neural Network + LSES Update/Demo
+- Playing Mario With Hand Gesture Neural Network + LSES Update/Demo  
 [https://www.youtube.com/watch?v=HaQizxcc1d0](https://www.youtube.com/watch?v=HaQizxcc1d0)
 
 
