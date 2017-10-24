@@ -184,7 +184,8 @@ Two ways:
 
 ![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/client.png)
 
-2. The trained model stays at the application server, while keeping the detection utility and necessary preprocessing in the client side to reduce the workload overhead on the server. Therefore, the model can be periodically updated without impact on the client application much
+2. The trained model stays at the application server, while keeping the detection utility and necessary preprocessing in the client side to reduce the workload overhead on the server. Therefore, the model can be periodically updated without impact on the client application much.  
+
 ![](https://github.com/whatifif/handgesture/blob/master/draft-j/resources/server.png)
 
 
