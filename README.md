@@ -108,7 +108,7 @@ We divided the left side into three regions
 3. right region
 
 - left, middle and right region of Left side  
-( This is left side. Images are flipped horizontally when captured. So do not be confused )  
+( This is left side images. Images are flipped horizontally when captured. So do not be confused )  
 ![left middle right region of Lest side](/resources/gestures/l-m-r.png)
 
 
