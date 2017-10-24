@@ -107,9 +107,9 @@ We divided the left side into three regions
 2. middle region
 3. right region
 
-- left, middle and right region of Left side  
-( This is left side images. Images are flipped horizontally when captured. So do not be confused )  
-![left middle right region of Lest side](/resources/gestures/l-m-r.png)
+- left, middle and right region of the left side. 
+( Thses are LEFT side images. Images are flipped horizontally when captured. So do not be confused )  
+![left middle right region of left side](/resources/gestures/l-m-r.png)
 
 
 We can make 10 easy distinct gestures on each region:
@@ -129,7 +129,7 @@ If we use 6, 7, 8, 9, 10 as inputs, we have 5 * 3 = 15 different gestures in eac
 
 If we use 3, 4, 5 as control, we have 3 * 3 = 9 controls and 45 * 9 = 135 different gestures which will cover the whole range of keys ( numbers, lower alphabets, upper alphabets, special keys and controls )
 
-For a right hand as a mouse, we can have 10 same gestures as left hand, which cover whole inputs from mouse. Our center of hand is a mouse cursor. The mouse cursor of computer will track the center of the right hand.
+For a right hand as a mouse, we can have 10 same gestures as left hand, which cover whole inputs from mouse. Our center of hand is a mouse cursor. The mouse cursor of computer will track the center of the right hand. There is only one region on the right side for a mouse.
 
 For a left-handed people, of course we can swap the left with the right.
 
