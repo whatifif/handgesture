@@ -26,37 +26,45 @@
 - Hand Gesture Datasets  
 [http://lttm.dei.unipd.it/downloads/gesture/](http://lttm.dei.unipd.it/downloads/gesture/)  
 
-[handposegenerator](http://lttm.dei.unipd.it/downloads/handposegenerator/index.html)
+- HandGenerator 
+[http://lttm.dei.unipd.it/downloads/handposegenerator/index.html](http://lttm.dei.unipd.it/downloads/handposegenerator/index.html)  
 
-[universe](https://blog.openai.com/universe/) : Universe allows an AI agent to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse. 
+- YOLO: Real-Time Object Detection  
+[https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
 
-[https://github.com/opencv/opencv](https://github.com/opencv/opencv)
+- Universe allows an AI agent to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse  
+[https://blog.openai.com/universe/](https://blog.openai.com/universe/)  
 
-[http://opencv.org/](http://opencv.org/)
+- How to Use Your Smartphone as a Mouse, Keyboard, and Remote Control for Your PC  
+[https://www.howtogeek.com/240794/how-to-use-your-smartphone-as-a-mouse-keyboard-and-remote-control-for-your-pc/](https://www.howtogeek.com/240794/how-to-use-your-smartphone-as-a-mouse-keyboard-and-remote-control-for-your-pc/)
 
-[https://pjreddie.com/darknet/](https://pjreddie.com/darknet/)
+- 9 OpenCV tutorials to detect and recognize hand gestures  
+[https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/](https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/)
 
-[Opencv python hand gesture recognition](http://creat-tabu.blogspot.com.au/2013/08/opencv-python-hand-gesture-recognition.html): opencv with python
 
-[9 OpenCV tutorials to detect and recognize hand gestures](https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/)
-
-[How to Use Your Smartphone as a Mouse, Keyboard, and Remote Control for Your PC](https://www.howtogeek.com/240794/how-to-use-your-smartphone-as-a-mouse-keyboard-and-remote-control-for-your-pc/)
 
 ## Youtube
 
-[Handpose: Fully Articulated Hand Tracking](https://www.youtube.com/watch?v=A-xXrMpOHyc): microsoft research
+- Handpose: Fully Articulated Hand Tracking : microsoft research  
+[https://www.youtube.com/watch?v=A-xXrMpOHyc](https://www.youtube.com/watch?v=A-xXrMpOHyc)
 
-[Kinect Finger Recognition For Games](https://www.youtube.com/watch?v=NqjopQmqWAE)
+- Kinect Finger Recognition For Games  
+[https://www.youtube.com/watch?v=NqjopQmqWAE](https://www.youtube.com/watch?v=NqjopQmqWAE)
 
-[IMPRESSIVE HAND TRACKING! | Blocks VR (Oculus Rift DK2 + Leap Motion Orion)](https://www.youtube.com/watch?v=LJPxyWM9Ujg)
+- IMPRESSIVE HAND TRACKING! | Blocks VR (Oculus Rift DK2 + Leap Motion Orion )
+[https://www.youtube.com/watch?v=LJPxyWM9Ujg](https://www.youtube.com/watch?v=LJPxyWM9Ujg)
 
-[OpenCV + Python + Hand Tracking + Gesture Recognition](https://www.youtube.com/watch?v=ycd3t6K2ofs)
+- OpenCV + Python + Hand Tracking + Gesture Recognition  
+[https://www.youtube.com/watch?v=ycd3t6K2ofs](https://www.youtube.com/watch?v=ycd3t6K2ofs)
 
-[OpenCV Python Webcam Hand Gesture Detection API](https://www.youtube.com/watch?v=oH0ZkfFoeYU)
+- OpenCV Python Webcam Hand Gesture Detection API  
+[https://www.youtube.com/watch?v=oH0ZkfFoeYU](https://www.youtube.com/watch?v=oH0ZkfFoeYU)
 
-[Hand Gesture Detection AI With Convolutional Neural Networks](https://www.youtube.com/watch?v=Y6oLbRKwmPk)
+- Hand Gesture Detection AI With Convolutional Neural Networks
+[https://www.youtube.com/watch?v=Y6oLbRKwmPk](https://www.youtube.com/watch?v=Y6oLbRKwmPk)
 
-[Playing Mario With Hand Gesture Neural Network + LSES Update/Demo](https://www.youtube.com/watch?v=HaQizxcc1d0)
+- Playing Mario With Hand Gesture Neural Network + LSES Update/Demo
+[https://www.youtube.com/watch?v=HaQizxcc1d0](https://www.youtube.com/watch?v=HaQizxcc1d0)
 
 
 
