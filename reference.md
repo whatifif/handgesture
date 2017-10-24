@@ -11,7 +11,7 @@
 - Fingers-Detection-using-OpenCV-and-Python  
 [https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python)
 
-- Mahaveerverma's hand gesture recognition
+- Mahaveerverma's hand gesture recognition  
 [https://github.com/mahaveerverma/hand-gesture-recognition-opencv](https://github.com/mahaveerverma/hand-gesture-recognition-opencv)  
 
 - Handling the mouse  
