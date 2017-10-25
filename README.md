@@ -6,7 +6,7 @@
 project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
 project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
 project slack: [https://sml109.slack.com](https://sml109.slack.com)  
-project team name: Team Echo
+project team name: Team Echo [https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/)
 
 ## Brief Introduction of this project
 
