@@ -233,6 +233,8 @@ Two ways:
 ## Future Work
 - Improve our Hand Detection, this can be extended to ultilise a Deep Learning Model, and get a more accurate feedback
 
+- Add reference points to catch a skin color and set it as a new skin color to detect. And while preprocessing, change the new skin color to the skin color used in training. In this way, the new skin color can be tracked correctly also.  
+
 - Add 'unknown' class if the probability is under criteria. When classified as 'unknown', immediately capture next frame without waiting the next 10 frames. 
 
 - Add more gestures such as raising 1st finger, index finger, index and middle finger, 1st and thumb funger 
