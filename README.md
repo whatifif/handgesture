@@ -14,7 +14,7 @@ Almost people use a desktop or laptop these days. One of serious problem is that
 
 - Using hand movements and gesture to control mouse/clicks though cam
 
-![Control-Your-Home-With-Gesture-And-Voice-Using-Flowton](/resources/remote-control.jpg)
+![Control-Your-Home-With-Gesture-And-Voice-Using-Flowton](/resources/remote-control800x.jpg)
 
 
 ## Introduction
