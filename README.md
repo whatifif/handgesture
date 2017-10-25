@@ -3,7 +3,7 @@
 
 # Controlling a Computer by Hand Gesture
 
-project name: Controlling a Computer by Hand Gesture
+project name: Controlling a Computer by Hand Gesture  
 project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
 project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
 project slack: [https://sml109.slack.com](https://sml109.slack.com)  
