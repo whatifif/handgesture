@@ -1,6 +1,9 @@
 [Home](/README.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button>
 
-# References  
+# References
+
+- MxNet (A Flexible and Efficient Library for Deep Learning)  
+[http://mxnet.incubator.apache.org/](http://mxnet.incubator.apache.org/)  
 
 - OpenCV documentaion  
 [https://docs.opencv.org/2.4.13/](https://docs.opencv.org/2.4.13/)
