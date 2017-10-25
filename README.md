@@ -245,13 +245,6 @@ Two ways:
 
 - Establishing and propagating the standard Hand Gestures for mobile and remotely-controlled devices
 
-## P.S.: What will be the future of human in AI (Artificial Intelligence) age?
+## P.S. What will be the future of human in AI (Artificial Intelligence) age?
 What will be the future of us, human in AI age? There will be no work which human have to do for living. We may have Universal Basic Income and have freedom to do what we like to do. AI may make an utopian world for human. Then to reach the utopian world as soon as possible, why not cooperate in developing AI rather than compete for limited resources and be greedy?  By using technology including AI, we can make our resources rich enough to be used by all human. Human will be multiplanetary species in future and there are infinite resources out there in universe. Lets make AI work for us, human and lets enjoy our lives as a human being.
 
-### [LICENSE](/LICENSE)
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
-
-Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- 
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
