@@ -231,6 +231,8 @@ Two ways:
 ## Future Work
 - Improve our Hand Detection, this can be extended to ultilise a Deep Learning Model, and get a more accurate feedback
 
+- By using Haar cascade, the face can be detected and removed or only hands can be detected. Then the detection region for hands is not needed and we can move our body freely.
+
 - Add reference points to catch a skin color and set it as a new skin color to detect. And while preprocessing, change the new skin color to the skin color used in training. In this way, the new skin color can be tracked correctly also.  
 
 - Add 'unknown' class if the probability is under criteria. When classified as 'unknown', immediately capture next frame without waiting the next 10 frames. 
