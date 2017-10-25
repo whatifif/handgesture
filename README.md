@@ -157,7 +157,6 @@ The environment light affects skin color significantly. So bright room was avoid
 
 - Main program used to capture hand images:  
 There are two detection regions. When the buttons below are clicked, detected image is captured, resized into 200x200 and saved in jpg format. At the same time, the file name is saved in csv file also. 2000 data were obtained in short period.  
-
 ![tracking hands](/resources/tracking_hands800x.jpg)
 
 # Deep Learning Model to recognise the gesture
