@@ -73,7 +73,7 @@
 [https://www.youtube.com/watch?v=HaQizxcc1d0](https://www.youtube.com/watch?v=HaQizxcc1d0)
 
 
-# Material
+# Resources
 
 - Remote control images   
 [https://thetechhacker.com/wp-content/uploads/2013/08/Control-Your-Home-With-Gesture-And-Voice-Using-Flowton.jpg](https://thetechhacker.com/wp-content/uploads/2013/08/Control-Your-Home-With-Gesture-And-Voice-Using-Flowton.jpg)
