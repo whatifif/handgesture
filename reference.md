@@ -20,6 +20,9 @@
 - Handling the mouse  
 [http://pythonhosted.org/pynput/mouse.html](http://pythonhosted.org/pynput/mouse.html)  
 
+- Realtime hand gesture recognition to control your window manager  
+[https://github.com/mre/tracker](https://github.com/mre/tracker)  
+
 - real-time object detection  
 [https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/)
 
