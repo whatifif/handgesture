@@ -1,4 +1,4 @@
-[Home](/README.md) | [Gestures](/gestures.md) | [Blue_Background](/blue_background.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button> | [Teams-all](/teams-all/SML109_team_project_abstracts.md)
+[Home](/README.md) | [Gestures](/gestures.md) | [Blue_Background](/blue_background.md) | [Reference](/reference.md) | [Edit Guide](/editguide.md) | <button class="nav" ><a href="https://github.com/whatifif/handgesture/">View on Github</a></button>  |  <button class="nav" ><a href="https://whatifif.github.io/handgesture/">View on Web</a></button> | [Teams-all](/teams-all/SML109_team_project_abstracts.pdf)
 
 
 # Controlling a Computer by Hand Gesture
