@@ -14,7 +14,7 @@
 ( Study group of Sydney Machine Learning 
 [https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/) )
 
-This study group is formed to study of Harvard CS109 [https://github.com/cs109](https://github.com/cs109)
+This study group is formed to study the Harvard CS109 [https://github.com/cs109](https://github.com/cs109)
 
 - project people: heeseob, jiaxi
 
