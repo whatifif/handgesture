@@ -14,7 +14,7 @@ project people: heeseob, jiaxi
 - when: 2017.08.02 ~ 2017.10.23 ( 3 months )
 - where: Amazon Web Service ( [https://aws.amazon.com/](https://aws.amazon.com/), Australia, 2 Park St, Sydney NSW 2000 )
 
-Among 10 teams, we got the 1'st prize ( and Amazon Alexa as a award ) together with one other team ( DeepAI ).
+Among 10 teams, we got the 1'st prize ( and Amazon Alexa as a award ) along with one other team ( DeepAI ).
 
 ## Brief Introduction of this project
 
