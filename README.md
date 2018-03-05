@@ -23,7 +23,7 @@ Members were re-grouped into 10 teams and completed their own interesting projec
 - team members: heeseob, jiaxi
 - period: 1 month
 
-Among 10 teams, we got the 1st prize ( and Amazon Echo ( Alexa ) as a award ) along with one other team ( DeepAI ).
+Among 10 teams, we won the 1st prize ( and Amazon Echo ( Alexa ) as a award ) along with one other team ( DeepAI ).
 
 ## Brief Introduction of this project
 
