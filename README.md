@@ -3,16 +3,20 @@
 
 # Controlling a Computer by Hand Gesture
 
-project name: Controlling a Computer by Hand Gesture  
-project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
-project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
-project slack: [https://sml109.slack.com](https://sml109.slack.com)  
-project team name: Team Echo 
+## Project
+
+- project name: Controlling a Computer by Hand Gesture  
+- project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
+- project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
+- project slack: [https://sml109.slack.com](https://sml109.slack.com)  
+- project team name: Team Echo 
 
 ( Study group of Sydney Machine Learning 
 [https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/) )
 
-project people: heeseob, jiaxi
+This study group is formed to study of Harvard CS109 [https://github.com/cs109](https://github.com/cs109)
+
+- project people: heeseob, jiaxi
 
 - when: 2017.08.02 ~ 2017.10.23 ( 3 months )
 - where: Amazon Web Service ( [https://aws.amazon.com/](https://aws.amazon.com/), Australia, 2 Park St, Sydney NSW 2000 )
