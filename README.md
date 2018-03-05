@@ -3,25 +3,27 @@
 
 # Controlling a Computer by Hand Gesture
 
+## Study group of Sydney Machine Learning
+
+This study group is formed to study the [Harvard CS109](https://github.com/cs109) among the members of [Sydney Machine Learning Meetup](https://www.meetup.com/Sydney-Machine-Learning/). 
+
+Members were re-grouped into 10 teams and completed their own interesting projects. 
+ My team was "team echo" named after the prize Amazon Echo.
+
+- study period: 2017.08.02 ~ 2017.10.23 ( 3 months including 1 month project )
+- study place : Amazon Web Service ( [https://aws.amazon.com/](https://aws.amazon.com/), Australia, 2 Park St, Sydney NSW 2000 )
+
 ## Project
 
-- project name: Controlling a Computer by Hand Gesture  
-- project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
-- project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
-- project slack: [https://sml109.slack.com](https://sml109.slack.com)  
-- project team name: Team Echo 
+- name: Controlling a Computer by Hand Gesture  
+- homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
+- code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
+- slack: [https://sml109.slack.com](https://sml109.slack.com)  
+- team name: Team Echo 
+- team members: heeseob, jiaxi
+- period: 1 month
 
-( Study group of Sydney Machine Learning 
-[https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/) )
-
-This study group is formed to study the Harvard CS109 [https://github.com/cs109](https://github.com/cs109)
-
-- project people: heeseob, jiaxi
-
-- when: 2017.08.02 ~ 2017.10.23 ( 3 months )
-- where: Amazon Web Service ( [https://aws.amazon.com/](https://aws.amazon.com/), Australia, 2 Park St, Sydney NSW 2000 )
-
-Among 10 teams, we got the 1'st prize ( and Amazon Alexa as a award ) along with one other team ( DeepAI ).
+Among 10 teams, we got the 1'st prize ( and Amazon Echo ( Alexa ) as a award ) along with one other team ( DeepAI ).
 
 ## Brief Introduction of this project
 
