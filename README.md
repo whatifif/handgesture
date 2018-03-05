@@ -5,7 +5,8 @@
 
 ## Study group of Sydney Machine Learning
 
-This study group is formed to study the [Harvard CS109](https://github.com/cs109) among the members of [Sydney Machine Learning Meetup](https://www.meetup.com/Sydney-Machine-Learning/). 
+This study group is formed to study the [Harvard CS109](https://github.com/cs109) among the members of [Sydney Machine Learning Meetup](https://www.meetup.com/Sydney-Machine-Learning/).
+  ( Youtube channel [https://www.youtube.com/channel/UCcZ5Sy4JzVUaiD1ZYRGDM0g/videos](https://www.youtube.com/channel/UCcZ5Sy4JzVUaiD1ZYRGDM0g/videos) )
 
 Members were re-grouped into 10 teams and completed their own interesting projects. 
  My team was "team echo" named after the prize [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-Alexa-Black/dp/B00X4WHP5E).
