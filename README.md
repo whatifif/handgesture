@@ -7,7 +7,7 @@ project name: Controlling a Computer by Hand Gesture
 project homepage: [https://github.com/whatifif/handgesture](https://github.com/whatifif/handgesture)  
 project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
 project slack: [https://sml109.slack.com](https://sml109.slack.com)  
-project team name: Team Echo [https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/)
+project team name: Team Echo ( Study group of Sydney Machine Learning [https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/) )
 
 project people: heeseob, jiaxi
 
