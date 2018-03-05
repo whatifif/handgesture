@@ -8,6 +8,12 @@ project homepage: [https://github.com/whatifif/handgesture](https://github.com/w
 project code page: [https://github.com/whatifif/handgesturecode](https://github.com/whatifif/handgesturecode)  
 project slack: [https://sml109.slack.com](https://sml109.slack.com)  
 project team name: Team Echo [https://www.meetup.com/Sydney-Machine-Learning/](https://www.meetup.com/Sydney-Machine-Learning/)
+project people: heeseob, jiaxi
+
+- when: 2017.08.02 ~ 2017.10.23 ( 3 months )
+- where: Amazon Web Service ( [https://aws.amazon.com/](https://aws.amazon.com/), Australia )
+
+We got the 1'st prize together with one other team.
 
 ## Brief Introduction of this project
 
