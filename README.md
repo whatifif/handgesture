@@ -8,7 +8,7 @@
 This study group is formed to study the [Harvard CS109](https://github.com/cs109) among the members of [Sydney Machine Learning Meetup](https://www.meetup.com/Sydney-Machine-Learning/). 
 
 Members were re-grouped into 10 teams and completed their own interesting projects. 
- My team was "team echo" named after the prize Amazon Echo.
+ My team was "team echo" named after the prize [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-Alexa-Black/dp/B00X4WHP5E).
 
 - study period: 2017.08.02 ~ 2017.10.23 ( 3 months including 1 month project )
 - study place : Amazon Web Service ( [https://aws.amazon.com/](https://aws.amazon.com/), Australia, 2 Park St, Sydney NSW 2000 )
